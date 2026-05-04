@@ -1,0 +1,132 @@
+NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement ("Agreement") is entered into as of January 15, 2025 ("Effective Date")
+by and between:
+
+DISCLOSING PARTY:
+  Acme Technologies Inc., a Delaware corporation
+  123 Innovation Drive, San Francisco, CA 94105
+  ("Acme")
+
+RECEIVING PARTY:
+  BetaSoft Solutions Ltd., a UK private limited company
+  45 Tech Quarter, London, EC2A 4LT, United Kingdom
+  ("BetaSoft")
+
+RECITALS
+
+Acme and BetaSoft wish to explore a potential business partnership relating to the development
+of an AI-powered contract analysis platform ("Proposed Transaction"). In connection with the
+Proposed Transaction, each party may disclose certain Confidential Information to the other.
+
+1. DEFINITION OF CONFIDENTIAL INFORMATION
+
+1.1 "Confidential Information" means any and all information disclosed by either party
+    (the "Disclosing Party") to the other party (the "Receiving Party"), whether orally
+    or in writing, that is designated as confidential or that reasonably should be
+    understood to be confidential given the nature of the information and the circumstances
+    of disclosure, including but not limited to:
+
+    (a) technical data, trade secrets, know-how, research, product plans, products,
+        services, customers, customer lists, markets, software, developments, inventions,
+        processes, formulas, technology, designs, drawings, engineering, hardware
+        configuration information, marketing, finances, or other business information;
+
+    (b) any information relating to the Proposed Transaction; and
+
+    (c) any notes, analyses, compilations, studies, summaries, and other material
+        prepared by the Receiving Party that contain or are based on Confidential
+        Information.
+
+1.2 Confidential Information does not include information that:
+    (a) is or becomes generally known to the public without breach of this Agreement;
+    (b) was known to the Receiving Party prior to its disclosure without restriction;
+    (c) is independently developed by the Receiving Party without use of Confidential
+        Information; or
+    (d) is rightfully obtained by the Receiving Party from a third party without
+        restriction on use or disclosure.
+
+2. OBLIGATIONS OF RECEIVING PARTY
+
+2.1 Non-Disclosure. The Receiving Party shall:
+    (a) hold the Confidential Information in strict confidence;
+    (b) not disclose Confidential Information to any third party without prior written
+        consent of the Disclosing Party;
+    (c) use Confidential Information solely for the purpose of evaluating the Proposed
+        Transaction;
+    (d) limit access to Confidential Information to those employees, agents, and
+        advisors who have a need to know and are bound by confidentiality obligations
+        no less restrictive than those in this Agreement.
+
+2.2 Standard of Care. The Receiving Party shall protect Confidential Information using
+    at least the same degree of care it uses to protect its own confidential information,
+    but in no event less than reasonable care.
+
+2.3 Compelled Disclosure. If the Receiving Party is compelled by law to disclose
+    Confidential Information, it shall provide the Disclosing Party with prompt written
+    notice (to the extent legally permissible) and cooperate with the Disclosing Party
+    in seeking a protective order.
+
+3. TERM AND TERMINATION
+
+3.1 This Agreement shall commence on the Effective Date and continue for a period of
+    TWO (2) YEARS unless earlier terminated by either party upon thirty (30) days'
+    written notice.
+
+3.2 Confidentiality obligations shall survive termination of this Agreement for a
+    further period of THREE (3) YEARS.
+
+3.3 Upon termination or upon request by the Disclosing Party, the Receiving Party shall
+    promptly return or destroy all Confidential Information and certify such destruction
+    in writing within ten (10) business days.
+
+4. NO LICENSE
+
+Nothing in this Agreement grants the Receiving Party any intellectual property rights
+in the Confidential Information. All Confidential Information remains the property of
+the Disclosing Party.
+
+5. REMEDIES
+
+The parties acknowledge that breach of this Agreement may cause irreparable harm for
+which monetary damages would be an inadequate remedy. Each party is therefore entitled
+to seek equitable relief, including injunction and specific performance, in addition to
+all other remedies available at law.
+
+6. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES. ACME'S TOTAL LIABILITY SHALL NOT EXCEED USD $50,000.
+
+7. GOVERNING LAW AND DISPUTE RESOLUTION
+
+7.1 This Agreement shall be governed by the laws of the State of Delaware, without
+    regard to its conflict of laws principles.
+
+7.2 Any dispute arising under this Agreement shall first be submitted to mediation
+    administered by JAMS. If mediation fails, disputes shall be resolved by binding
+    arbitration in San Francisco, California under JAMS Comprehensive Arbitration Rules.
+
+8. GENERAL PROVISIONS
+
+8.1 This Agreement constitutes the entire agreement between the parties with respect
+    to the subject matter hereof and supersedes all prior negotiations, representations,
+    and agreements.
+
+8.2 This Agreement may not be amended except by a written instrument signed by both parties.
+
+8.3 If any provision of this Agreement is found invalid or unenforceable, the remaining
+    provisions shall remain in full force.
+
+8.4 Neither party may assign this Agreement without the prior written consent of the other
+    party, except in connection with a merger, acquisition, or sale of substantially all assets.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+ACME TECHNOLOGIES INC.                    BETASOFT SOLUTIONS LTD.
+
+By: _________________________             By: _________________________
+Name: Sarah Chen                          Name: James Okafor
+Title: Chief Executive Officer            Title: Managing Director
+Date: January 15, 2025                   Date: January 15, 2025

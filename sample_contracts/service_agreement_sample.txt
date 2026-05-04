@@ -1,0 +1,189 @@
+SOFTWARE DEVELOPMENT SERVICES AGREEMENT
+
+This Software Development Services Agreement ("Agreement") is made and entered into
+as of March 1, 2025 ("Effective Date") between:
+
+CLIENT:
+  GlobalRetail Corp., a Texas corporation
+  500 Commerce Boulevard, Houston, TX 77001
+  ("Client")
+
+SERVICE PROVIDER:
+  BetaSoft Solutions Ltd., a UK private limited company
+  45 Tech Quarter, London, EC2A 4LT, United Kingdom
+  ("Provider")
+
+1. SERVICES AND DELIVERABLES
+
+1.1 Scope of Services. Provider shall develop and deliver a custom inventory management
+    system ("System") in accordance with the Statement of Work attached hereto as
+    Exhibit A ("SOW"), incorporated herein by reference.
+
+1.2 Deliverables. Provider shall deliver the following milestones:
+
+    Phase 1 – Requirements & Architecture (Weeks 1–4):
+      Deliverable: Architecture design document and approved technical specification
+      Due Date: March 29, 2025
+      Payment: USD $40,000
+
+    Phase 2 – Core Development (Weeks 5–16):
+      Deliverable: Functional backend and API layer with unit test coverage ≥ 80%
+      Due Date: June 7, 2025
+      Payment: USD $80,000
+
+    Phase 3 – UI & Integration (Weeks 17–24):
+      Deliverable: Web and mobile UI, third-party integrations, integration test suite
+      Due Date: August 2, 2025
+      Payment: USD $60,000
+
+    Phase 4 – UAT & Deployment (Weeks 25–28):
+      Deliverable: Production-ready System deployed to Client's AWS environment,
+                   documentation, and training materials
+      Due Date: August 30, 2025
+      Payment: USD $30,000 (final payment upon written Client acceptance)
+
+    TOTAL CONTRACT VALUE: USD $210,000
+
+2. PAYMENT TERMS
+
+2.1 Invoicing. Provider shall submit invoices upon delivery and Client written acceptance
+    of each Phase deliverable.
+
+2.2 Payment Due Date. Client shall pay each invoice within THIRTY (30) calendar days of
+    receipt ("Due Date").
+
+2.3 Late Payment. Amounts unpaid after the Due Date shall accrue interest at the rate of
+    1.5% per month (18% per annum), or the maximum rate permitted by law, whichever is less.
+
+2.4 Disputed Invoices. Client shall notify Provider of any disputed invoice within TEN (10)
+    business days of receipt. Undisputed amounts remain due by the original Due Date.
+
+2.5 Expenses. Client shall reimburse Provider for pre-approved travel and out-of-pocket
+    expenses within thirty (30) days of receipt of expense reports with supporting receipts.
+    Travel expenses shall not exceed USD $5,000 without prior written approval.
+
+3. CHANGE ORDERS
+
+3.1 Any changes to the SOW must be agreed in a written Change Order signed by both parties.
+
+3.2 Provider shall not be required to perform work outside the SOW without an executed
+    Change Order. Provider shall provide a quote for any requested change within FIVE (5)
+    business days of receiving a written change request.
+
+4. INTELLECTUAL PROPERTY
+
+4.1 Work Product. Subject to full payment of all fees, Provider hereby assigns to Client
+    all right, title, and interest in and to the System, including all copyrights, patents,
+    and other intellectual property rights therein ("Work Product").
+
+4.2 Pre-existing IP. Provider retains all rights to its pre-existing tools, libraries,
+    frameworks, and methodologies ("Provider Background IP"). Provider grants Client a
+    non-exclusive, royalty-free, perpetual licence to use Provider Background IP solely
+    as incorporated in the System.
+
+4.3 Open Source. Provider may incorporate open source software only with prior written
+    approval of Client and only under licences that do not require the System to be
+    licensed under open source terms (i.e., no copyleft licences).
+
+5. WARRANTIES AND REPRESENTATIONS
+
+5.1 Provider warrants that:
+    (a) the System will conform to the functional specifications in the SOW for a period
+        of NINETY (90) days after final acceptance ("Warranty Period");
+    (b) the System will not infringe any third-party intellectual property rights;
+    (c) the System will not contain any malicious code, backdoors, or undisclosed
+        functionality; and
+    (d) Provider has the right to enter into this Agreement and grant the rights herein.
+
+5.2 Warranty Remedy. If a defect is reported during the Warranty Period, Provider shall
+    use commercially reasonable efforts to correct the defect within FIFTEEN (15) business
+    days at no additional charge. If Provider fails to correct within such period, Client
+    may engage a third party to correct the defect and invoice Provider for reasonable costs.
+
+6. INDEMNIFICATION
+
+6.1 By Provider. Provider shall defend, indemnify, and hold harmless Client from and against
+    any third-party claims, damages, and costs (including reasonable attorneys' fees) arising
+    from: (i) Provider's breach of this Agreement; (ii) infringement of third-party IP rights
+    by the Work Product; or (iii) Provider's gross negligence or wilful misconduct.
+
+6.2 By Client. Client shall defend, indemnify, and hold harmless Provider from and against
+    any third-party claims arising from Client's use of the System in violation of applicable
+    law or this Agreement.
+
+7. LIMITATION OF LIABILITY
+
+7.1 NEITHER PARTY SHALL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL
+    DAMAGES, INCLUDING LOSS OF REVENUE, PROFIT, OR DATA, EVEN IF ADVISED OF THE POSSIBILITY.
+
+7.2 PROVIDER'S TOTAL AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED THE TOTAL
+    FEES PAID BY CLIENT IN THE SIX (6) MONTHS PRECEDING THE CLAIM. CLIENT'S TOTAL LIABILITY
+    SHALL NOT EXCEED USD $50,000.
+
+7.3 The foregoing limitations shall not apply to: (i) breach of confidentiality; (ii) IP
+    indemnification obligations; (iii) fraud or wilful misconduct; or (iv) death or personal
+    injury caused by negligence.
+
+8. CONFIDENTIALITY
+
+8.1 Each party shall keep confidential all non-public information of the other party received
+    under this Agreement and shall not disclose such information to third parties without prior
+    written consent. Obligations survive termination for THREE (3) years.
+
+9. TERM AND TERMINATION
+
+9.1 Term. This Agreement commences on the Effective Date and continues until delivery and
+    acceptance of all Phase 4 deliverables, unless earlier terminated.
+
+9.2 Termination for Cause. Either party may terminate if the other materially breaches this
+    Agreement and fails to cure such breach within THIRTY (30) days of written notice.
+
+9.3 Termination for Convenience. Client may terminate this Agreement upon SIXTY (60) days'
+    written notice, in which case Client shall pay for all work completed and accepted prior
+    to the effective date of termination, plus reasonable wind-down costs not to exceed
+    USD $15,000.
+
+9.4 Effect of Termination. Upon termination: (a) each party shall return or destroy the
+    other's confidential information; (b) Provider shall deliver all completed work product
+    to Client; and (c) Client shall pay all undisputed amounts then due.
+
+10. FORCE MAJEURE
+
+Neither party shall be liable for delays caused by circumstances beyond its reasonable control,
+including acts of God, pandemic, war, government action, or utility failures, provided the
+affected party gives prompt written notice and uses commercially reasonable efforts to mitigate.
+Maximum force majeure extension: NINETY (90) days, after which either party may terminate.
+
+11. GENERAL PROVISIONS
+
+11.1 Governing Law. This Agreement is governed by the laws of the State of Texas, without
+     regard to conflict of laws principles.
+
+11.2 Dispute Resolution. Disputes shall first be escalated to senior management for good-faith
+     negotiation for THIRTY (30) days. Unresolved disputes shall be submitted to binding
+     arbitration in Houston, Texas under AAA Commercial Arbitration Rules.
+
+11.3 Entire Agreement. This Agreement (including all Exhibits) constitutes the entire
+     agreement and supersedes all prior representations and agreements.
+
+11.4 Amendment. No amendment is effective unless signed in writing by both parties.
+
+11.5 Severability. Invalid provisions shall be modified to the minimum extent necessary
+     to make them valid; all other provisions remain in force.
+
+11.6 No Waiver. Failure to enforce any provision shall not constitute a waiver.
+
+11.7 Notices. All notices shall be in writing and delivered by email with confirmation
+     of receipt or by certified mail to the addresses above.
+
+11.8 Independent Contractor. Provider is an independent contractor; no employment or
+     partnership relationship is created.
+
+IN WITNESS WHEREOF, the parties have signed this Agreement as of the Effective Date.
+
+GLOBALRETAIL CORP.                          BETASOFT SOLUTIONS LTD.
+
+By: _________________________               By: _________________________
+Name: Maria Gonzalez                        Name: James Okafor
+Title: Chief Technology Officer             Title: Managing Director
+Date: March 1, 2025                        Date: March 1, 2025
